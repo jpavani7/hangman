@@ -1,1 +1,1 @@
-# hangman
+# Definite Integral Calculator
